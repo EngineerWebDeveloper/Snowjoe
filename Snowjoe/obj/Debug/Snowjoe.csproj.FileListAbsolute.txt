@@ -1,0 +1,7 @@
+c:\users\simo\source\repos\Snowjoe\Snowjoe\obj\Debug\Snowjoe.csprojResolveAssemblyReference.cache
+c:\users\simo\source\repos\Snowjoe\Snowjoe\obj\Debug\Snowjoe.csproj.CoreCompileInputs.cache
+c:\users\simo\source\repos\Snowjoe\Snowjoe\bin\Debug\Snowjoe.exe.config
+c:\users\simo\source\repos\Snowjoe\Snowjoe\bin\Debug\Snowjoe.exe
+c:\users\simo\source\repos\Snowjoe\Snowjoe\bin\Debug\Snowjoe.pdb
+c:\users\simo\source\repos\Snowjoe\Snowjoe\obj\Debug\Snowjoe.exe
+c:\users\simo\source\repos\Snowjoe\Snowjoe\obj\Debug\Snowjoe.pdb
