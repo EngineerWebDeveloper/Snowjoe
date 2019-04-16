@@ -1,0 +1,13 @@
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\UnitTests.exe.config
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\Snowjoe.exe
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\Snowjoe.pdb
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\Snowjoe.exe.config
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\obj\Debug\UnitTests.exe
+C:\Users\Simo\source\repos\Snowjoe\UnitTests\obj\Debug\UnitTests.pdb
