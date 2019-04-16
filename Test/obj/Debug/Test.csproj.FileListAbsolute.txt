@@ -1,7 +1,0 @@
-c:\Users\Simo\source\repos\Snowjoe\Test\bin\Debug\Test.exe.config
-c:\Users\Simo\source\repos\Snowjoe\Test\bin\Debug\Test.exe
-c:\Users\Simo\source\repos\Snowjoe\Test\bin\Debug\Test.pdb
-c:\Users\Simo\source\repos\Snowjoe\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-c:\Users\Simo\source\repos\Snowjoe\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-c:\Users\Simo\source\repos\Snowjoe\Test\obj\Debug\Test.exe
-c:\Users\Simo\source\repos\Snowjoe\Test\obj\Debug\Test.pdb
